@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefEditorUtils", "RefEditorUtils\RefEditorUtils.csproj", "{6CCE2D17-18F3-49EF-9C74-7F3EDDE08406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CCE2D17-18F3-49EF-9C74-7F3EDDE08406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CCE2D17-18F3-49EF-9C74-7F3EDDE08406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CCE2D17-18F3-49EF-9C74-7F3EDDE08406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CCE2D17-18F3-49EF-9C74-7F3EDDE08406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E45C631-C189-49D5-AA51-E4364E6D0209}
+	EndGlobalSection
+EndGlobal
